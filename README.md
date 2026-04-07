@@ -6,14 +6,14 @@
 
 ### Web 界面截图
 
-![Web界面截图](./screenshots/web_interface.png)
+
 *Web 图形界面展示*
 ![alt text]({E80BC2E0-F396-4647-96EE-B88E7D8BA681}.png)
 ![alt text]({8646C6E5-6A06-463B-A857-C1B9A96EB6D5}.png)
 
 ### 报告生成示例
 
-![报告示例截图](./screenshots/report_example.png)
+
 *生成的投资研究报告示例*
 ![alt text]({E8823188-AC03-42E4-8A79-74431AB72227}.png)
 ![alt text]({1665ECC7-92E6-4426-AC1C-F638AB6D1C18}.png)
@@ -99,7 +99,6 @@ pip install -r requirements.txt
 │   └── prompt_templates.py  # 提示模板，存储各种任务的提示文本
 ├── .gitignore               # Git忽略规则文件
 ├── README.md                # 项目说明文件
-├── deliberative_research_qwen_agent-2.py  # 原始单文件版本（保留供参考）
 ├── main.py                  # 主入口文件，启动应用程序
 └── requirements.txt         # 依赖项文件，列出项目所需的Python包
 ```
