@@ -1,0 +1,2 @@
+dashscope>=1.14.0
+qwen-agent>=0.0.3
